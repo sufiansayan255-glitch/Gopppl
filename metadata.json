@@ -1,0 +1,7 @@
+{
+  "name": "SparkFlow Ultimate Suite",
+  "description": "Daily Productivity Hub Pro featuring Smart Comment Reader, JSON Formatter Pro, QR Code Generator, Voice Dictation (Urdu/English Voice to Text), Task Manager, Password Generator, Text Analytics with Deep AI Insights, and Universal Image Converter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
